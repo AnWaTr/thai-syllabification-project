@@ -2,7 +2,7 @@
 
 In grad school for my 2nd MS I was given a task to parse Thai phrases.  
 
-The interesting thing about Thai is words are strung together in one long glog:
+The interesting thing about Thai is words are strung together in one long blob:
 
 ฉันเห็นเขาตามเธอแจไปทุกทีเป็นเงาตามตัวตลอดเลย
 นกเล็กมีหน้าอกสีแดง
