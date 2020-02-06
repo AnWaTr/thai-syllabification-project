@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{F1FC05C7-DC2E-4931-8F17-FEAD33B73FF3}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ling473Project3" expanded="True">
+            <Node name="Ling473Project3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ling473Project3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/andrewtroelsen/Documents/Graduate School Stuff/UW CLMS/Coursework/7 - Summer 2015/LING 473 - CL Fundamentals/Projects/Project 3/Ling473Project3/ThaiSyllabifierLambdaLogic.cs" line="437" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
