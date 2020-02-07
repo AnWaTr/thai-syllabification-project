@@ -1,4 +1,4 @@
-# thai-syllabification-project-
+# thai-syllabification-project
 
 In grad school for my 2nd MS I was given a task to parse Thai phrases.  
 
