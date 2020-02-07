@@ -16,6 +16,6 @@ The interesting thing about Thai is words are strung together in one long blob:
 เขาผลัดค่าเช่าห้องมาเดือนหนึ่งแล้ว
 ฉันตายด้านในเรื่องความรักเสียแล้วหลังจากที่ฉันเคยผิดหวังกับความรัก
 
-Bit in reality, these long globs break down to syntactic and semantic details. 
+But in reality, these long globs break down to syntactic and semantic details. 
 
 So, I wrote a state machine that broke thing apart and outputed the result to a HTML file with word breaks. 
