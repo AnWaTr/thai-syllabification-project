@@ -19,3 +19,7 @@ The interesting thing about Thai is words are strung together in one long blob:
 But in reality, these long globs break down to syntactic and semantic details. 
 
 So, I wrote a state machine that broke thing apart and outputed the result to a HTML file with word breaks. 
+
+HTML Output:
+
+![Image description](https://github.com/AnWaTr/thai-syllabification-project/blob/master/Supporting%20Files/thai_output.png)
